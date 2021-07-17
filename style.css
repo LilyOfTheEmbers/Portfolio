@@ -4,14 +4,14 @@ body {
 }
 header {
 	height: 120px;
-	background-color: #8f6593;
+	background-color: #e74cf5;
 }
 #content {
 	padding-top: 60px;
 	min-height: 400px;
 }
 footer {
-	background-color: #8f6593;
+	background-color: #e74cf5;
 }
 .wrapper {
 	width: 980px;
