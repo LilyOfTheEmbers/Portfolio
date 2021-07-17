@@ -1,17 +1,17 @@
 body {
-	background-color: #f9e7e7;
+	background-color: #ffffff;
   margin: 0;
 }
 header {
 	height: 120px;
-	background-color: #e74cf5;
+	background-color: #ffffff;
 }
 #content {
 	padding-top: 60px;
 	min-height: 400px;
 }
 footer {
-	background-color: #e74cf5;
+	background-color: #ffffff;
 }
 .wrapper {
 	width: 980px;
